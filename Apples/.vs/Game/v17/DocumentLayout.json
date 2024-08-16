@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\instruction.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:instruction.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\handler\\appleauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:handler\\appleauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\data\\applerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:data\\applerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\data\\iapplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:data\\iapplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\data\\appledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:data\\appledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\controllers\\applecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:controllers\\applecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\migrations\\appledbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:migrations\\appledbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\apple.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:apple.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:58:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppleDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Migrations\\AppleDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppleDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Migrations\\AppleDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppleDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:57:58.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppleAuthHandler.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Handler\\AppleAuthHandler.cs",
+              "RelativeDocumentMoniker": "Handler\\AppleAuthHandler.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Handler\\AppleAuthHandler.cs",
+              "RelativeToolTip": "Handler\\AppleAuthHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:57:43.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAppleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\IAppleRepo.cs",
+              "RelativeDocumentMoniker": "Data\\IAppleRepo.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\IAppleRepo.cs",
+              "RelativeToolTip": "Data\\IAppleRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:57:23.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\AppleRepo.cs",
+              "RelativeDocumentMoniker": "Data\\AppleRepo.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\AppleRepo.cs",
+              "RelativeToolTip": "Data\\AppleRepo.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:57:17.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppleDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\AppleDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppleDBContext.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\AppleDBContext.cs",
+              "RelativeToolTip": "Data\\AppleDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:57:10.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppleController.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Controllers\\AppleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppleController.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Controllers\\AppleController.cs",
+              "RelativeToolTip": "Controllers\\AppleController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:56:55.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Instruction.txt",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Instruction.txt",
+              "RelativeDocumentMoniker": "Instruction.txt",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Instruction.txt",
+              "RelativeToolTip": "Instruction.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-16T00:51:12.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Apple",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Apple.csproj",
+              "RelativeDocumentMoniker": "Apple.csproj",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Apple.csproj",
+              "RelativeToolTip": "Apple.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T00:43:38.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|A2.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|A2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\migrations\\gamedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|solutionrelative:migrations\\gamedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\handler\\gameauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|solutionrelative:handler\\gameauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\data\\igamerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|solutionrelative:data\\igamerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\data\\gamerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|solutionrelative:data\\gamerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Game.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|A2.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|A2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Migrations\\GameDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\GameDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Migrations\\GameDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\GameDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:02:13.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameAuthHandler.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Handler\\GameAuthHandler.cs",
+              "RelativeDocumentMoniker": "Handler\\GameAuthHandler.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Handler\\GameAuthHandler.cs",
+              "RelativeToolTip": "Handler\\GameAuthHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:01:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:46:16.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGameRepo.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\IGameRepo.cs",
+              "RelativeDocumentMoniker": "Data\\IGameRepo.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\IGameRepo.cs",
+              "RelativeToolTip": "Data\\IGameRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:00:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameRepo.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\GameRepo.cs",
+              "RelativeDocumentMoniker": "Data\\GameRepo.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Data\\GameRepo.cs",
+              "RelativeToolTip": "Data\\GameRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:00:27.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:59:41.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T20:53:37.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

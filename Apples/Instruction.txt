@@ -1,0 +1,33 @@
+Test V1:
+Requirements 	- Visual studio
+				- Git 
+
+Here is a simple api backend built to use asp.net. 
+By default this should launch swagger docs on localhost:8081 and is configured to use SQLite as a database for testing.
+configure or modify anything you require to accomplish each task, 
+
+COMMIT AND PUSH AFTER EACH TASK IS COMPLETE.
+
+tasks are as follows:
+
+
+
+1. Build, run, and read the swagger docs.
+
+2. Add brief comments to the existing code to explain what it does, and why it is needed.
+
+3. Build functionality for a user to make an order, view all of their orders and delete any of their orders. 
+	- An order must be uniquely identifiable
+	- An order must have a quantity
+	- An order can have any other fields you think are required.
+
+4. Add to the comments a list of improvements that you would make and why
+
+6. Add a diagram of your app and database. Describe the relationships and API architecture
+
+5. implement your changes
+
+6. Deploy the app with a frontend.
+
+
+--have fun.
