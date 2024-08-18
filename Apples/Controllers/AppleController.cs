@@ -18,7 +18,7 @@ namespace Apple.Controllers
 
         ////////////////////////////////////////////////////// DOCUMENT THIS
         [HttpPost("Register")]
-        public ActionResult<string> Register(User user)
+        public async Task<ActionResult<string>> Register(User user)
         {
             string response = "";
             User u = _repo.GetUser(user.UserName);
@@ -32,7 +32,7 @@ namespace Apple.Controllers
                 response = "Username not available.";
             }
 
-            return Ok(response);
+            return await Task.FromResult(Ok(response));
         }
 
         ////////////////////////////////////////////////////// DOCUMENT THIS
