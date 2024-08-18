@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IaJJQ4X34QM=",
+  "dgSpecHash": "L+AhAW/2FSU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Apple.csproj",
+  "projectFilePath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\Apple.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charles.greaves\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\charles.greaves\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",

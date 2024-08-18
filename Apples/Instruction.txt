@@ -1,33 +1,36 @@
-Test V1:
+Test V2:
 Requirements 	- Visual studio
 				- Git 
+				- Anything to draw diagrams with (Visio, Drawio, Pen and paper.)
 
-Here is a simple api backend built to use asp.net. 
-By default this should launch swagger docs on localhost:8081 and is configured to use SQLite as a database for testing.
-configure or modify anything you require to accomplish each task, 
+Here is a simple api backend built by chatGPT. 
+
+We have many Users spread out accross the world (Asia, Europe, Oceania).
+Each User is an Orchardist who has one or more orchards.
+Each orchard has zero or more weather stations.
+Each orchard grows one or more variety of crop.
+
+An Orchardist must spray their crop within 48 hours of the last rainfall if there is any precipitation.
+The spray type depends on the variety of crop. 
+As such they need to know the date and time that rain started and ended on their orchard and what spray they need to use.
+Each spray can only be used below a certain wind speed.
 
 COMMIT AND PUSH AFTER EACH TASK IS COMPLETE.
 
 tasks are as follows:
 
 
-
 1. Build, run, and read the swagger docs.
 
-2. Add brief comments to the existing code to explain what it does, and why it is needed.
+2. Add brief comments to the existing code to explain what it does, and why.
 
-3. Build functionality for a user to make an order, view all of their orders and delete any of their orders. 
-	- An order must be uniquely identifiable
-	- An order must have a quantity
-	- An order can have any other fields you think are required.
+3. Explain, using diagrams where appropriate how you would achieve our users requirements.
 
-4. Add to the comments a list of improvements that you would make and why
+4. Build some endpoints for a WEATHEREVENT to demonstrate functionality of your prototype.
 
-6. Add a diagram of your app and database. Describe the relationships and API architecture
+6. What test cases would you use?
 
-5. implement your changes
-
-6. Deploy the app with a frontend.
+7. What are the limitations of this build?
 
 
---have fun.
+--GLHF.

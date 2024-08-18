@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\",
+  "WorkspaceRootPath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\compsci 335\\assignments\\a2-template\\instruction.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\testing\\apples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|c:\\users\\charles.greaves\\onedrive - scales corporation\\desktop\\charles\\testing\\apples\\instruction.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{53B1C67D-D4BE-4697-A883-EF7BFCC0A072}|Apple.csproj|solutionrelative:instruction.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:45:17.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Instruction.txt",
-              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Instruction.txt",
+              "DocumentMoniker": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\Instruction.txt",
               "RelativeDocumentMoniker": "Instruction.txt",
-              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Instruction.txt",
+              "ToolTip": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\Instruction.txt",
               "RelativeToolTip": "Instruction.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-08-16T02:35:39.798Z",
               "EditorCaption": ""

@@ -1477,11 +1477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Apple.csproj",
+      "projectUniqueName": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\Apple.csproj",
       "projectName": "Apple",
-      "projectPath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\Apple.csproj",
+      "projectPath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\Apple.csproj",
       "packagesPath": "C:\\Users\\charles.greaves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Compsci 335\\Assignments\\A2-template\\obj\\",
+      "outputPath": "C:\\Users\\charles.greaves\\OneDrive - Scales Corporation\\Desktop\\Charles\\Testing\\Apples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\charles.greaves\\AppData\\Roaming\\NuGet\\NuGet.Config",

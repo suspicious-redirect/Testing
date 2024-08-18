@@ -32,6 +32,9 @@
     <None Update="A2Database.sqlite-shm">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
+    <None Update="AppleDatabase.sqlite">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
